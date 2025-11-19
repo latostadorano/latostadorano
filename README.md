@@ -20,4 +20,4 @@ Curiosity drives my work. Learning new tools, understanding how systems behave, 
 • Pomodoros :)
 
 ### 📬 Contact
-<p align="left"> <a href="mailto:pablotoust@gmail.com"> <img src="https://img.shields.io/badge/Email-pablotoust%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="left"> <a href="mailto:latostadorano@gmail.com"> <img src="https://img.shields.io/badge/Email-pablotoust%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
