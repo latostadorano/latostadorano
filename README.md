@@ -45,3 +45,10 @@ Curiosity drives my work. Learning new tools, understanding how systems behave, 
 
 ### 📬 Contact
 <p align="left"> <a href="mailto:latostadorano@gmail.com"> <img src="https://img.shields.io/badge/Email-latostadorano%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="400">
+<br><br>
+
