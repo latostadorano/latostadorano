@@ -1,3 +1,6 @@
+<img width="2176" height="544" alt="github-header" src="https://github.com/user-attachments/assets/7c81214e-57c8-4a48-9942-74f2df0803d0" />
+
+
 ## Hi, I'm Pablo 👋
 
 I’m a multidisciplinary creator blending data analysis, creative coding and design thinking into practical, engaging solutions.
